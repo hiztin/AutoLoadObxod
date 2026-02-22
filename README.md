@@ -1,4 +1,4 @@
-<img width="2549" height="1343" alt="изображение" src="https://github.com/user-attachments/assets/372075d6-54ad-479c-b2df-2621b898e4c4" /># AutoLoadObxod
+# AutoLoadObxod
 
 # Итак, как сделать так что бы это работало?✏️
 Всё просто, для начало замените в 3 строчке текст в ковычках на путь к файлу с вашим обходом, после чего сохраните.
@@ -24,7 +24,7 @@ pip install auto-py-to-exe
 
 auto-py-to-exe
 ```
-<img width="2549" height="1343" alt="изображение" src="https://github.com/user-attachments/assets/7a1ad091-2512-4c7e-9d7a-88c4178e64e0" />
+<img width="2549" height="1343" alt="изображение" src="https://github.com/user-attachments/assets/372075d6-54ad-479c-b2df-2621b898e4c4" />
 
 
 Потом нажмите Win + R, введите shell:startup и закиньте туда получившийся файл
