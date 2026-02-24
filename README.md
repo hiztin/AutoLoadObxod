@@ -6,8 +6,8 @@
 
 Если у вас выдаст ошибку, попробуйте написать путь по аналогии с представленным ниже 
 ```bash
-deckName = r"C:\Users\myName\My Documents\Workspace\folder\Zapret";
-deckName = "C:/Users/myName/My Documents/myfile.txt"
+os.startfile(r"C:\Users\myName\My Documents\Workspace\folder\Zapret")
+os.startfile("C:/Users/myName/My Documents/myfile.txt")
 ```
 <p align="center">
   <img src="seiun-sky-fish.gif" alt="Seiun Sky Fish" width="300">
